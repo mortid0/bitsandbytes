@@ -3,7 +3,7 @@ requires = ["setuptools >= 63.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "bitsandbytes"
+name = "bitsandbytes_mortid0"
 dynamic = ["version"]
 description = "k-bit optimizers and matrix multiplication routines."
 authors = [{name="Tim Dettmers", email="dettmers@cs.washington.edu"}]
